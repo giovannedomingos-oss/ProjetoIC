@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-strength-478112-m8",
+  "private_key_id": "90d7312e3b9fd2b0d1af94bf849d2d32afea772c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3+B7or9cIQKmv\nqLWpp4st8mCFske+6wyFQT0UbvlXhdiHXJNbSAHz2MnpsiJkl1tREyQnK7/QXnlI\nEUb/uq3yiG+iUTToWETv7Lomsh21JBPFY4vPHix9cNXBkPy1L5RKYSIQAbfvtJhF\nJg0ylEjzUcXYs60yDYumozvwDcSKgLynfwk07S+0jomSJRlWbSgYCGsSrUiHVyHi\n08MoiVVIUzasHNSEE3Z0mRDQo9A6SiEzFXMbkqgU1tpWysWX6aQxRrH6PWR4ZE9+\npSNPhEljCjkLf9HlvwAoXDoblZYiBZ5iMJZoZ/POmgPeu0BMf+o9eUMQvZPvubC7\ngNNmAdzhAgMBAAECggEACZpOG7l8/RFqAhEpfVvxXgI8M1JbYB3zCvwdKPVDduP1\nydgFWZMMRgsTfAs4NB257qUUAqbsFd9uj3pWZUgcZw/j2tpIC5Y67/agf19WAWPr\nE8c2z6Z8rkYO5FIR/M+pWwoPrfv2+tBHj/l04CZhGfFTZVS4pkeSee3klarUTuHj\nVQtS4hLQ5urS8a3mYVPrX+XUxbTF1x0/7yYeubj22lZpYmcD+oorQvCtbtH9oaa1\nPEBy9ZZ7+7JMxJuNk9vSVh2wPTUdpgRmkR+iabU3F568PLdTPQLUh9wgGWx9C+wO\nZ6MYEbtp/POFhsPMTTHSdwciZT0yAs8Ue2nTVzhCaQKBgQD0y8GNNjnZqhjDpoZM\nmtJe+IhN0OvfZ8FpfmWan7b8KoO61NSFXlMmwh22XhrqaD917ml0UVc8R0NK7KY7\nq1AKdP5obCXbOUfTa2M6K0tvK/dgIqsxFZQhQn3Vsl38ftR/nkBVz7roOoQHgJ4A\nt0sAnAcgnpJk5L/7x3zZrCw16QKBgQDAY6poLkfM74fdjJeLsZ6uO9G/BL5BN4Zz\nTKgqIvBVG+HlKnpfg27jK19YufORnIwCr/+/XWYP660ZpodrPUBRSnT+QEi7YpkR\nl9JDl0obfh0tAjHiiiLER6zfmpeWUGOUvxfQqCFsuVMjAfWLKphwq/F9e4HCEu3c\nd2SPBIV8OQKBgQCTFQ3xW8B8kOAaRibxRiDaYTf8kWf3rm6ehQxlUEtwzdaiXhhn\nHdqWMhIKLha7+vEOWbZQ5kKk/ChpjzD+LxuDfPITKc/BHXSTijVvkO3dGSykPZBg\niJedOEdFK8ue11G0cBA1vv+NYwNLQrMsuPS+pAEAT2akanETxbO1UeaqaQKBgEqC\nDsvcKJh4p7Cos0Q5nM+zgQ6uYpRVUa+zn2j6MQN1Ee4znkMBXt+Bu6JcGbVp4Ftm\nF/Df1hgSWO6XLNjeVttkr5yL/t77V3aVyqu8msm89MWqlPE8OCy16YCLmWtwZLCF\ntU5s3s0BlO3440RrUbBJFvRW8bDcrdv1LS+qO5wZAoGBAKUP1LIQY/WvUaPsV31U\nyA9J2gmG9gVP7C3XmozfDf23NWXqCn+SGbUKwEf3wjBBtJxLCTQMPAdDbcPrdsJt\nLy7Pa5aE00UtHRl29e5wD4efdLHhx8nRbVVBm8Izzg5L3+gP7nNqhzFzpQYo5tdI\n2X8pKYEmxVJ7yZzwglnMoeq7\n-----END PRIVATE KEY-----\n",
+  "client_email": "evasao-estudantil@nodal-strength-478112-m8.iam.gserviceaccount.com",
+  "client_id": "105071331847992593463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/evasao-estudantil%40nodal-strength-478112-m8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
